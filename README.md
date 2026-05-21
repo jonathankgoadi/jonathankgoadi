@@ -52,4 +52,4 @@ My passion for threat detection and incident response has led me to pursue a Tie
 
 ## Projects
 - **Active Directory Securty Lab** — Deployed a full SIEM pipeline with Active Directory, Sysmon endpoint telemetry, and custom Splunk detection rules to identify credential theft, privilege escalation, and lateral movement. Executed Atomic Red Team tests and conducted triage-to-remediation incident response drills.
-- **SOC Automation Lab** — Built an automated incident response workflow integrating Wazuh, Shuffle SOAR, and TheHive for alert enrichment, case creation, and threat containment without manual intervention.
+
