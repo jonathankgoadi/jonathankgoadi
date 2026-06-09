@@ -8,13 +8,13 @@ My passion for threat detection and incident response has led me to pursue a Tie
 
 ## Skills
 
-| Skill                                                              | Associated Project                                                                              |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Active Directory, Domain users/groups, Group Policy, Domain joins  | <a href="https://github.com/jonathankgoadi/Detection-Lab"> Active Directory Security Lab </a>   |
-| Firewall Configuration and Network Segmentation                    | <a href="https://github.com/jonathankgoadi/Detection-Lab"> Active Directory Security Lab </a>   |
-| Endpoint Visibility & Sysmon Deployment                            | <a href="https://github.com/jonathankgoadi/Detection-Lab"> Active Directory Security Lab </a>   |
-| Threat Simulation with Atomic Red Team                             | <a href="https://github.com/jonathankgoadi/Detection-Lab"> Active Directory Security Lab </a>   |
-| Incident Investigation and Log Correlation                         | <a href="https://github.com/jonathankgoadi/Detection-Lab"> Active Directory Security Lab </a>   |
+| Skill                                                              | Associated Project                                                                                              |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Active Directory, Domain users/groups, Group Policy, Domain joins  | <a href="https://github.com/jonathankgoadi/Active-Directory-Security-Lab"> Active Directory Security Lab </a>   |
+| Firewall Configuration and Network Segmentation                    | <a href="https://github.com/jonathankgoadi/Active-Directory-Security-Lab"> Active Directory Security Lab </a>   |
+| Endpoint Visibility & Sysmon Deployment                            | <a href="https://github.com/jonathankgoadi/Active-Directory-Security-Lab"> Active Directory Security Lab </a>   |
+| Threat Simulation with Atomic Red Team                             | <a href="https://github.com/jonathankgoadi/Active-Directory-Security-Lab"> Active Directory Security Lab </a>   |
+| Incident Investigation and Log Correlation                         | <a href="https://github.com/jonathankgoadi/Active-Directory-Security-Lab"> Active Directory Security Lab </a>   |
 
 
 ## Tools
